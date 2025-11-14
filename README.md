@@ -1,6 +1,6 @@
 # 🖥️ Tugas: Membuat Header Keren untuk Project C++ Console
 
-Pada tugas kali ini, kamu diminta untuk membuat **header estetik** yang akan menjadi bagian atas dari project akhirmu. Header ini akan tampil setiap kali program dijalankan, sehingga harus tampil **rapi, menarik, dan merepresentasikan aplikasi kamu yang keycye seperti kamu**. Kasih nama aplikasimu yang keren, misal ini saya pake **Sistem Informasi Perpustakaan Jendela Pustaka**. _Oouuwisssss_
+Pada tugas kali ini, kamu diminta untuk membuat **header estetik** yang akan menjadi bagian atas dari project akhirmu. Header ini akan tampil setiap kali program dijalankan, sehingga harus tampil **rapi, menarik, dan merepresentasikan aplikasi kamu yang keycye seperti kamu**. Kalau nampilin ASCII art jangan lebay juga, komposisinya dipaskan jangan penuh sesak gara-gara ASCII art saja. Kasih nama aplikasimu yang keren, misal ini saya pake **Sistem Informasi Perpustakaan Jendela Pustaka**. _Oouuwisssss_
 
 ---
 
@@ -22,8 +22,8 @@ Pada tugas kali ini, kamu diminta untuk membuat **header estetik** yang akan men
 
 ---
 
-## 💡 Contoh Tampilan (Boleh ditiru, boleh buat versi sendiri)
-Cek aja di directory contoh
+## 💡 Contoh
+Sudah saya sediakan contoh-contoh. Silahkan dicoba, dikombinasikan, dikreasikan. Cek aja di directory contoh.
 
 ---
 
